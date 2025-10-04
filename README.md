@@ -1,6 +1,6 @@
-# MLIR Syntax Highlight Obsidian Plugin ![Release](https://github.com/Lewuathe/obsidian-mlir-syntax-highlight/actions/workflows/release.yml/badge.svg)
+# Nasm Syntax Highlight Obsidian Plugin 
 
-A plugin for [Obsidian](https://obsidian.md) which allows MLIR syntax highlighting for code blocks in the editor.
+A plugin for [Obsidian](https://obsidian.md) which allows Nasm syntax highlighting for code blocks in the editor.
 
 ![Screenshot](./screenshot.png)
 
@@ -13,5 +13,5 @@ A plugin for [Obsidian](https://obsidian.md) which allows MLIR syntax highlighti
 - Click Install
 - Once installed, close the community plugins window and activate the newly installed plugin
 
-This plugin is mostly the fork from [cm-editor-syntax-highlight-obsidian
-](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) but only supporting the MLIR syntax highlighting for the simplicity. 
+This plugin is mostly a fork from [mlir-syntax-highlight](https://github.com/Lewuathe/obsidian-mlir-syntax-highlight) which is a fork from [cm-editor-syntax-highlight-obsidian
+](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) but only supporting the Nasm syntax highlighting for the simplicity. 
