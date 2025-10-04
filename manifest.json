@@ -1,0 +1,9 @@
+{
+  "id": "nasm-syntax-highlight",
+  "name": "Nasm Syntax Highlight",
+  "author": "Mark Eiger",
+  "authorUrl": "https://github.com/MarkEiger",
+  "description": "Show syntax highlighing for Nasm in code blocks the editor",
+  "isDesktopOnly": false,
+  "version": "0.0.1"
+}
